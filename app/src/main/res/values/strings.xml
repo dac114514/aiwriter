@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AI故事创作</string>
+
+    <!-- Story Setup -->
+    <string name="story_setup_title">选择故事类型</string>
+    <string name="story_setup_subtitle">开始你的创作之旅</string>
+    <string name="custom_settings_title">自定义设定</string>
+    <string name="character_description_hint">描述主角的性格、外貌、技能等...</string>
+    <string name="background_description_hint">描述故事发生的世界、时代背景等...</string>
+    <string name="special_requirements_hint">任何特殊的创作要求或限制...</string>
+    <string name="generate_outline">生成大纲</string>
+    <string name="outline_preview_title">故事大纲预览</string>
+    <string name="start_creation">开始创作</string>
+    <string name="enter_story_world">进入故事世界</string>
+
+    <!-- Story Reading -->
+    <string name="story_reading_title">AI故事创作</string>
+    <string name="chapter_progress">第%1$d章 / 共%2$d章</string>
+    <string name="restart_story">重新开始</string>
+    <string name="continue_story">继续</string>
+    <string name="generating_chapter">生成中...</string>
+    <string name="branch_point">分支点</string>
+    <string name="no_story_started">故事尚未开始</string>
+    <string name="return_to_setup">请返回设置页面开始你的故事创作</string>
+
+    <!-- Common -->
+    <string name="loading">加载中...</string>
+    <string name="error_occurred">发生错误</string>
+    <string name="close">关闭</string>
+    <string name="edit">编辑</string>
+    <string name="next">下一步</string>
+    <string name="back">返回</string>
+    <string name="settings">设置</string>
+    <string name="history">历史</string>
+    <string name="chat">聊天</string>
+</resources>
